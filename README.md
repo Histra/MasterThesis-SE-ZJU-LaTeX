@@ -1,15 +1,14 @@
 ## 浙江大学软件学院硕士研究生学位论文LaTeX模板
 模板上游：[ZJU-Awesome](https://github.com/ZJU-Awesome/write_with_LaTeX)<br>
-模板改造者：  zsyh等
+模板上游：[Thesis-SE-ZJU-LaTeX](https://github.com/zsyh/Thesis-SE-ZJU-LaTeX)<br>
+模板改造者：  Histranger等
 
 注：本人毕业后不再维护本模板，不对使用本模板产生的任何后果负责。
 
 ## 1、简介
 
 为了方便学位论文的排版，让作者专心于内容，
-根据[《浙江大学软件学院论文格式要求》](http://www.cst.zju.edu.cn/uploadfile/2012/1015/20121015030109379.doc)
-,[《浙江大学软件学院论文模板》](http://www.cst.zju.edu.cn/uploadfile/2012/1015/20121015030251470.doc)
-以及[《浙江大学研究生学位论文编写规则》](http://grs.zju.edu.cn/UserFiles/File/xkjsc/xwglb/wenjian/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E7%BC%96%E5%86%99%E8%A7%84%E5%88%99.doc)，并结合实际，改造设计了相应的LaTeX模版。
+根据[《07-浙江大学软件学院硕士学位论文模版》](http://www.cst.zju.edu.cn/2012/1015/c36269a1485474/page.htm)、[《08-浙江大学软件学院硕士学位论文格式规则》](http://www.cst.zju.edu.cn/2012/1015/c36269a1485473/page.htm)以及[《浙江大学研究生学位论文编写规则》](http://grs.zju.edu.cn/UserFiles/File/xkjsc/xwglb/wenjian/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E7%BC%96%E5%86%99%E8%A7%84%E5%88%99.doc)，并结合实际，改造设计了相应的LaTeX模版。
 
 *软件学院声称其格式要求引用自研究生院格式要求，实际情况未可知。排版一事，但求整齐悦目，若为统一归档，窃以为研究生院可确立统一排版框架，各学系可依照实情对本系专属的排版元素(如CS类的算法环境、理科各系的定理环境)进行详细定义，归档时统一完成。* 
 
